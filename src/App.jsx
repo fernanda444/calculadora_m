@@ -21,7 +21,7 @@ export default function App() {
 
   return (
     <div className="flex justify-center items-center h-screen bg-pink-100">
-      <h3>CALCULADORA BONITA </h3>
+      <h3>CALCULADORA BONITA 🌸 </h3>
       <div className="bg-pink-300 p-6 rounded-2xl shadow-xl w-80 border-4 border-pink-500">
         <input
           type="text"
